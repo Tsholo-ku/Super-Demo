@@ -1,4 +1,4 @@
-# Super-Demo
+# Guessing game
 This is a guessing game created by a beginner coder in python. 
 The aim of the game is to guess the correct number.
 If you guess too high, too low, out of range or enter an invalid character, the game will let you know and give you another opportunity to play again until you get it right.
